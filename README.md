@@ -13,7 +13,7 @@ I'm Martin Heini, a cross-platform application developer. I spend most of my tim
 - 🤔 I’m looking for help with iOS
 - 💬 Ask me about Jobs, SQL 
 - 📫 How to reach me: info@neofix.ch
-- ⚡ Fun fact: I still have my first code project :)
+- ⚡ Fun fact: I still have my first code projects :)
 
 #### My experiences so far
 
