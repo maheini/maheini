@@ -2,7 +2,7 @@
 
 I'm Martin Heini, a cross-platform application developer. I spend most of my time developing Projects for Web, desktop and android working with QT and Flutter. 
 
-✉️ Reach me out if you got any needs!
+#### ✉️ Reach me out if you got any needs!
 
 [![Website](https://img.shields.io/badge/Web-neofix.ch-blue?style=for-the-badge)](https://neofix.ch/it/softwareentwicklung/)
 [![Mail](https://img.shields.io/badge/Mail-info@neofix.ch-red?style=for-the-badge)](mailto:info@neofix.ch)
