@@ -17,6 +17,6 @@ I'm Martin Heini, a cross-platform application developer. I spend most of my tim
 
 #### My experiences so far
 
-I initially startet with microcontroller code, written in C, wich gave me great insights. Later, I switched to QT and made a ERP software and many projects more there. My current project is flutter and with it Android development.
+I initially startet with microcontroller code, written in C, wich gave me great insights. Later, I switched to QT and made a ERP software and many more projects there. My current project is Flutter and with it Android/iOS/web development.
 
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=maheini.readme&color=blue)
