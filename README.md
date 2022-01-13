@@ -8,7 +8,7 @@ I'm Martin Heini, a cross-platform application developer. I spend most of my tim
 [![Mail](https://img.shields.io/badge/Mail-info@neofix.ch-red?style=for-the-badge)](mailto:info@neofix.ch)
 
 - 🔭 I’m currently working on **CarbPro**, an opensource Android App
-- 🌱 I’m currently learning Flutter, especially going deeper into testing
+- 🌱 I’m currently learning TDD, unit & widget testing in Flutter
 - 👯 I’m looking to collaborate on Flutter and Qt Project
 - 🤔 I’m looking for help with iOS
 - 💬 Ask me about Jobs, SQL 
