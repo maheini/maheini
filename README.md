@@ -8,10 +8,10 @@ I'm Martin Heini, a cross-platform application developer. I spend most of my tim
 [![Mail](https://img.shields.io/badge/Mail-info@neofix.ch-red?style=for-the-badge)](mailto:info@neofix.ch)
 
 - 🔭 I’m currently working on **Racego**, an opensource race management tool - full cross-platform!
-- 🌱 I’m currently learning State management and api handling in Flutter
-- 👯 I’m looking to collaborate on Flutter and Qt Project
+- 🌱 I’m currently learning how to improve testing
+- 👯 I’m looking to collaborate on Flutter and Qt Widgets Projects
 - 🤔 I’m looking for help with iOS - I got no mac :)
-- 💬 Ask me about Jobs, SQL
+- 💬 Ask me about Jobs, SQL, Flutter
 - 📫 How to reach me: info@neofix.ch
 - ⚡ Fun fact: I still have my first code projects :)
 
