@@ -6,6 +6,7 @@ I'm Martin Heini, a cross-platform application developer. I spend most of my tim
 
 [![Website](https://img.shields.io/badge/Web-neofix.ch-blue?style=for-the-badge)](https://neofix.ch/it/softwareentwicklung/)
 [![Mail](https://img.shields.io/badge/Mail-info@neofix.ch-red?style=for-the-badge)](mailto:info@neofix.ch)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-heini/)
 
 - 🔭 I’m currently working on **Racego**, an opensource race management tool - full cross-platform!
 - 🌱 I’m currently learning how to improve testing
