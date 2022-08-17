@@ -9,15 +9,15 @@ I'm Martin Heini, a cross-platform application developer. I spend most of my tim
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-heini/)
 
 - 🔭 I’m currently working on **Racego**, an opensource race management tool - full cross-platform!
-- 🌱 I’m currently learning how to improve testing
-- 👯 I’m looking to collaborate on Flutter and Qt Widgets Projects
+- 🌱 I’m currently learning how to produce cleaner code
+- 👯 I’m looking to collaborate on Flutter, Wordpress or Qt Widgets Projects
 - 🤔 I’m looking for help with iOS - I got no mac :)
-- 💬 Ask me about Jobs, SQL, Flutter
+- 💬 Ask me about Jobs, QT, SQL or Flutter
 - 📫 How to reach me: info@neofix.ch
-- ⚡ Fun fact: I still have my first code projects :)
+- ⚡ Fun fact: I still have my first code projects - kinda nice :)
 
 #### My experiences so far
 
-I initially started with microcontroller code, written in C, which gave me great insights. Later, I switched to QT and made a ERP software and many more projects there. My current project is Flutter and with-it Android/iOS/desktop and web development.
+I initially started with microcontroller code, written in C, which gave me great insights. Later, I switched to QT and made a ERP software and many more projects there. With the release of Flutter, I switched over and started with desktop/mobile/web development. My current project are Wordpress plugins and with-it PHP/web development.
 
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=maheini.readme&color=blue)
