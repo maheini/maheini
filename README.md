@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Martin Heini, a cross-platform application developer. I spend most of my time developing Projects for desktop, Android and web working with Flutter and QT. 
+I'm Martin Heini, a cross-platform application developer. I spend most of my time developing Projects for desktop, Android and web working with Flutter and Laravel. 
 
 #### ✉️ Reach me out if you got any needs!
 
