@@ -1,13 +1,18 @@
 ## Hi there 👋
 I'm Martin Heini, a versatile developer with a passion to engage in a wide range of development tasks.
 
-### Languages & Tools I use most
+[![Mail](https://img.shields.io/badge/Mail-info@neocode.ch-blue?style=for-the-badge)](mailto:info@neocode.ch)  [![Website](https://img.shields.io/badge/Web-neofix.ch-blue?style=for-the-badge)](https://neofix.ch/it/softwareentwicklung/)  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-heini/)
 
-![image (1)](https://github.com/user-attachments/assets/b055b8cb-19c0-442b-af53-ff446a22f755)
+### Myself in a nutshell
 
-### 📫 Reach out if you have any needs!
+<img src="https://skillicons.dev/icons?i=dart,python,php,c,cpp,css,js,git,docker,flutter,vscode,wordpress" />
 
-[![Mail](https://img.shields.io/badge/Mail-info@neocode.ch-red?style=for-the-badge)](mailto:info@neocode.ch)  [![Website](https://img.shields.io/badge/Web-neofix.ch-blue?style=for-the-badge)](https://neofix.ch/it/softwareentwicklung/)  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-heini/)
+### Target Platforms
+
+**Web:** Frappe Framework & Wordpress<br>
+**Mobile:** Android/iOS (Flutter)<br>
+**Desktop:** Windows, Linux, MacOS (Flutter)<br>
+**Embedded:** Atmel uController
 
 <!---
 - 🔭 I’m currently working on a variety of projects across different platforms.
