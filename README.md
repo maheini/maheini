@@ -1,23 +1,16 @@
-### Hi there 👋
+## Hi there 👋
+I'm Martin Heini, a versatile developer with a passion to engage in a wide range of development tasks.
 
-I'm Martin Heini, a cross-platform application developer. I spend most of my time developing Projects for desktop, Android and web working with Flutter and Laravel.
+### Languages & Tools I use most
 
-#### ✉️ Reach me out if you got any needs!
+![image (1)](https://github.com/user-attachments/assets/b055b8cb-19c0-442b-af53-ff446a22f755)
 
-[![Website](https://img.shields.io/badge/Web-neofix.ch-blue?style=for-the-badge)](https://neofix.ch/it/softwareentwicklung/)
-[![Mail](https://img.shields.io/badge/Mail-info@neofix.ch-red?style=for-the-badge)](mailto:info@neofix.ch)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-heini/)
+### 📫 Reach out if you have any needs!
 
-- 🔭 I’m currently working on **various Flutter & WordPress projects** for neocode.ch
-- 🌱 I’m currently learning to dig depper into Gutenberg Blocks
-- 👯 I’m looking to collaborate on Flutter or Wordpress projects
-- 🤔 I’m looking for help with iOS - I got no mac :)
-- 💬 Ask me about Jobs, Flutter and Laravel
+[![Mail](https://img.shields.io/badge/Mail-info@neocode.ch-red?style=for-the-badge)](mailto:info@neocode.ch)  [![Website](https://img.shields.io/badge/Web-neofix.ch-blue?style=for-the-badge)](https://neofix.ch/it/softwareentwicklung/)  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-heini/)
+
+- 🔭 I’m currently working on a variety of projects across different platforms.
+- 🌱 I’m always learning new technologies and tools as needed for my projects.
+- 👯 I’m open to collaborating on any interesting projects.
 - 📫 How to reach me: info@neocode.ch
-- ⚡ Fun fact: I still have my first code projects - kinda funny in retrospect :)
-
-#### My experiences so far
-
-I initially started with microcontroller code, written in C, which gave me great insights. Later, I switched to QT and made a ERP software and many more projects there. With the release of Flutter, I switched over and started with desktop/mobile/web development. Besides that, I started digging into WordPress plugin development to expand my websites.
-
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=maheini.readme&color=blue)
+- ⚡ Fun fact: I still have my first code projects - they're quite amusing in retrospect!
